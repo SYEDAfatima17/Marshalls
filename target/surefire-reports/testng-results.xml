@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-26T11:26:31 CDT" name="rewards.com.RewardsTest" finished-at="2024-09-26T11:26:45 CDT" duration-ms="14320">
+    <groups>
+    </groups>
+    <test started-at="2024-09-26T11:26:31 CDT" name="Command line test" finished-at="2024-09-26T11:26:45 CDT" duration-ms="14320">
+      <class name="rewards.com.RewardsTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:rewards.com.RewardsTest@5ea434c8]" started-at="2024-09-26T11:26:31 CDT" name="setUpClass" finished-at="2024-09-26T11:26:31 CDT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:rewards.com.RewardsTest@5ea434c8]" started-at="2024-09-26T11:26:31 CDT" name="setUpMethod" finished-at="2024-09-26T11:26:32 CDT" duration-ms="1651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testUntitledTestCase()[pri:0, instance:rewards.com.RewardsTest@5ea434c8]" started-at="2024-09-26T11:26:32 CDT" name="testUntitledTestCase" finished-at="2024-09-26T11:26:45 CDT" duration-ms="12606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitledTestCase -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:rewards.com.RewardsTest@5ea434c8]" started-at="2024-09-26T11:26:45 CDT" name="tearDownMethod" finished-at="2024-09-26T11:26:45 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:rewards.com.RewardsTest@5ea434c8]" started-at="2024-09-26T11:26:45 CDT" name="tearDownClass" finished-at="2024-09-26T11:26:45 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- rewards.com.RewardsTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- rewards.com.RewardsTest -->
+</testng-results>
